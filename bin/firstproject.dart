@@ -5,6 +5,7 @@ void main() {
 question1();
 question2();
 question3();
+question4();
 }
 
 //01. Write a Dart program to print 'Hello' on screen and then print your name on a separate line.
@@ -45,4 +46,9 @@ void question3() {
 }
 //04. Write a Dart program that takes two numbers  and displays the product of two numbers.
 
-
+void question4(){
+  int a=5;
+  int b=6;
+  int product=a*b;
+  print(product);
+}
