@@ -96,18 +96,18 @@ void question6(){
 //07. Make a reusable method  and pass two values inside the method,
 // calculate division of two values, get the return value and store it
 // on a new variable inside the main method and print the new variable.
+
 void question7(){
 
 }
 void calculation(){
-  
-}
 
+}
 
 
 //08. Write a method to display your id, your name, your email, your phone number in single line.
 void question8(){
-print('94,  Masuma,  masumaakter0364@gmail.com,  01640910364');
+  print('94,  Masuma,  masumaakter0364@gmail.com,  01640910364');
 }
 
 
@@ -133,14 +133,13 @@ void question9(){
 // 19
 // 13
 
-void question10(){
-  int a=((-5)+8*6);
-  int b=((55+9)%9);
-  double c= (20+(-3)*5/8);
-  double d=5+((15/3)*2)-(8%3);
+void question10() {
+  int a = ((-5) + 8 * 6);
+  int b = ((55 + 9) % 9);
+  double c = (20 + (-3) * 5 / 8);
+  double d = 5 + ((15 / 3) * 2) - (8 % 3);
   print(a);
   print(b);
   print(c);
   print(d);
-
 }
